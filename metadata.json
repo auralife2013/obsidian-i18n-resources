@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "PFUT5xWv_uNXhbQo3Tfw6yRtPEHWL-BA",
+        "plugin": "dataview",
+        "language": "zh-cn",
+        "version": "0.5.68",
+        "supported_versions": "0.5.68",
+        "title": "Dataview",
+        "description": "Dataview Localization & Tweaks",
+        "hash": "64058486640584866405848664058486",
+        "created_at": "2026-03-14T08:33:08.250Z",
+        "updated_at": "2026-03-14T08:33:08.250Z",
+        "type": "plugin"
+    }
+]
