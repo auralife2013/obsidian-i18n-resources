@@ -11,5 +11,18 @@
         "created_at": "2026-03-14T08:33:08.250Z",
         "updated_at": "2026-03-14T09:56:56.925Z",
         "type": "plugin"
+    },
+    {
+        "id": "rC7FtqqjbMSTnqE-40eoyGmbVlnqd8jg",
+        "plugin": "manual-sorting",
+        "language": "zh-cn",
+        "version": "3.2.4",
+        "supported_versions": "3.2.4",
+        "title": "Manual Sorting",
+        "description": "Manual Sorting Localization & Tweaks",
+        "hash": "15b6a01815b6a01815b6a01815b6a018",
+        "created_at": "2026-03-16T08:32:53.252Z",
+        "updated_at": "2026-03-16T08:32:53.252Z",
+        "type": "plugin"
     }
 ]
