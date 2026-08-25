@@ -1,0 +1,470 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "sync-engine",
+        "version": "1.0.0",
+        "title": "Sync Engine",
+        "description": "Sync Engine Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "3.1.2",
+        "author": "auralifework"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "使用 ",
+                    "target": "使用 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " 可以显著加速同步过程。",
+                    "target": " 可以显著加速同步过程。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " 删除",
+                    "target": " 删除"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " 加上",
+                    "target": " 加上"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "，以及",
+                    "target": "，以及"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": ") 用于排除文件。请参阅 ",
+                    "target": ") 用于排除文件。请参阅 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " 获取配置指南。",
+                    "target": " 获取配置指南。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "匹配排除规则但同时匹配这些 glob 模式的文件/文件夹仍会被同步。请参阅 ",
+                    "target": "匹配排除规则但同时匹配这些 glob 模式的文件/文件夹仍会被同步。请参阅 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "设置是否将模块的二进制文件固定到特定的哈希值，并在每次加载时验证该哈希值。",
+                    "target": "设置是否将模块的二进制文件固定到特定的哈希值，并在每次加载时验证该哈希值。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " 了解每个设置的更详细说明。设置上的标签：",
+                    "target": " 了解每个设置的更详细说明。设置上的标签："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "同步引擎检测到一个已安装的模块，名称为 ",
+                    "target": "同步引擎检测到一个已安装的模块，名称为 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "文件名：",
+                    "target": "文件名："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "文件路径： ",
+                    "target": "文件路径： "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "大小：",
+                    "target": "大小："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "创建于：",
+                    "target": "创建于："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "修改时间： ",
+                    "target": "修改时间： "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "如果您不确定此项的来源，那么直接删除它就是最佳选择。如果您控制着这个模块且此举是有意为之，您可以选择“配置”并启用它。",
+                    "target": "如果您不确定此项的来源，那么直接删除它就是最佳选择。如果您控制着这个模块且此举是有意为之，您可以选择“配置”并启用它。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "圆角-lg 边框 边框-[--background-modifier-border] 背景-[--background-secondary] px-2",
+                    "target": "圆角-lg 边框 边框-[--background-modifier-border] 背景-[--background-secondary] px-2"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "w-100% flex flex-col gap-3 p-1.5",
+                    "target": "w-100% flex flex-col gap-3 p-1.5"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "flex flex-row text-3 text-[--text-muted] whitespace-nowrap",
+                    "target": "flex flex-row text-3 text-[--text-muted] whitespace-nowrap"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "min-w-0 flex-1",
+                    "target": "min-w-0 flex-1"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "list-none ps-0!",
+                    "target": "list-none ps-0!"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "whitespace-pre-line hidden my-0",
+                    "target": "whitespace-pre-line hidden my-0"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "可点击图标 flex-shrink-0 rounded-md",
+                    "target": "可点击图标 flex-shrink-0 rounded-md"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createSpan",
+                    "source": "w-[--icon-size] h-[--icon-size] color-[--color-red]",
+                    "target": "w-[--icon-size] h-[--icon-size] color-[--color-red]"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "text-[--text-muted] whitespace-nowrap",
+                    "target": "text-[--text-muted] whitespace-nowrap"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "text-[--text-muted] break-words mt-1",
+                    "target": "text-[--text-muted] break-words mt-1"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "描述",
+                    "target": "描述"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "名称",
+                    "target": "名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "未知模块",
+                    "target": "未知模块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "非对称存储",
+                    "target": "非对称存储"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "⚠️ 在启用非对称存储之前，您应对以下几点保持谨慎：",
+                    "target": "⚠️ 在启用非对称存储之前，您应对以下几点保持谨慎："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "启用后，请确保所有设备都已启用非对称存储。",
+                    "target": "启用后，请确保所有设备都已启用非对称存储。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "如果此保险库此前是在未启用非对称存储的情况下上传的，则需要进行迁移。",
+                    "target": "如果此保险库此前是在未启用非对称存储的情况下上传的，则需要进行迁移。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "⚠️ 在禁用非对称存储之前，您应对以下几点保持谨慎：",
+                    "target": "⚠️ 在禁用非对称存储之前，您应对以下几点保持谨慎："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "所有后续上传将镜像本地的层级结构。",
+                    "target": "所有后续上传将镜像本地的层级结构。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "请确保所有设备都已禁用非对称存储。",
+                    "target": "请确保所有设备都已禁用非对称存储。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "如果此保险库此前是在启用非对称存储的情况下上传的，则需要进行迁移。",
+                    "target": "如果此保险库此前是在启用非对称存储的情况下上传的，则需要进行迁移。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "设置文档",
+                    "target": "设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Lucide 图标目录",
+                    "target": "Lucide 图标目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "强烈不建议关闭完整性验证，因为这会使您暴露在巨大的攻击风险之下。",
+                    "target": "强烈不建议关闭完整性验证，因为这会使您暴露在巨大的攻击风险之下。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "感谢您选择同步引擎！请访问以下链接",
+                    "target": "感谢您选择同步引擎！请访问以下链接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "文档",
+                    "target": "文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "请在继续之前查看以下信息：",
+                    "target": "请在继续之前查看以下信息："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "请避免加载来源未知的模块，因为这可能是恶意攻击。",
+                    "target": "请避免加载来源未知的模块，因为这可能是恶意攻击。"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "appendText(`使用 `)",
+                    "target": "appendText(`使用 `)"
+                },
+                {
+                    "source": "appendText(` 可以显著加速同步过程。`)",
+                    "target": "appendText(` 可以显著加速同步过程。`)"
+                },
+                {
+                    "source": "appendText(`同步将总共执行 ${t} 个操作`)",
+                    "target": "appendText(`同步将总共执行 ${t} 个操作`)"
+                },
+                {
+                    "source": "appendText(`. 包含`)",
+                    "target": "appendText(`. 包含`)"
+                },
+                {
+                    "source": "appendText(` 删除`)",
+                    "target": "appendText(` 删除`)"
+                },
+                {
+                    "source": "appendText(` ${r} 个本地文件`)",
+                    "target": "appendText(` ${r} 个本地文件`)"
+                },
+                {
+                    "source": "appendText(` 加上`)",
+                    "target": "appendText(` 加上`)"
+                },
+                {
+                    "source": "appendText(`，以及`)",
+                    "target": "appendText(`，以及`)"
+                },
+                {
+                    "source": "appendText(` 正在解决 ${n} 个冲突`)",
+                    "target": "appendText(` 正在解决 ${n} 个冲突`)"
+                },
+                {
+                    "source": "appendText(`) 用于排除文件。请参阅 `)",
+                    "target": "appendText(`) 用于排除文件。请参阅 `)"
+                },
+                {
+                    "source": "appendText(` 获取配置指南。`)",
+                    "target": "appendText(` 获取配置指南。`)"
+                },
+                {
+                    "source": "appendText(`匹配排除规则但同时匹配这些 glob 模式的文件/文件夹仍会被同步。请参阅 `)",
+                    "target": "appendText(`匹配排除规则但同时匹配这些 glob 模式的文件/文件夹仍会被同步。请参阅 `)"
+                },
+                {
+                    "source": "appendText(`设置是否将模块的二进制文件固定到特定的哈希值，并在每次加载时验证该哈希值。`)",
+                    "target": "appendText(`设置是否将模块的二进制文件固定到特定的哈希值，并在每次加载时验证该哈希值。`)"
+                },
+                {
+                    "source": "appendText(` 了解每个设置的更详细说明。设置上的标签：`)",
+                    "target": "appendText(` 了解每个设置的更详细说明。设置上的标签：`)"
+                },
+                {
+                    "source": "appendText(` ${r.ariaLabel}`)",
+                    "target": "appendText(` ${r.ariaLabel}`)"
+                },
+                {
+                    "source": "appendText(`同步引擎检测到一个已安装的模块，名称为 `)",
+                    "target": "appendText(`同步引擎检测到一个已安装的模块，名称为 `)"
+                },
+                {
+                    "source": "appendText(`文件名：`)",
+                    "target": "appendText(`文件名：`)"
+                },
+                {
+                    "source": "appendText(`文件路径： `)",
+                    "target": "appendText(`文件路径： `)"
+                },
+                {
+                    "source": "appendText(`大小：`)",
+                    "target": "appendText(`大小：`)"
+                },
+                {
+                    "source": "appendText(`创建于：`)",
+                    "target": "appendText(`创建于：`)"
+                },
+                {
+                    "source": "appendText(`修改时间： `)",
+                    "target": "appendText(`修改时间： `)"
+                },
+                {
+                    "source": "appendText(`如果您不确定此项的来源，那么直接删除它就是最佳选择。如果您控制着这个模块且此举是有意为之，您可以选择“配置”并启用它。`)",
+                    "target": "appendText(`如果您不确定此项的来源，那么直接删除它就是最佳选择。如果您控制着这个模块且此举是有意为之，您可以选择“配置”并启用它。`)"
+                },
+                {
+                    "source": "Notice(`(${l(`failedToLoadModule`,{name:a})}): ${t}`)",
+                    "target": "Notice(`(${l(`failedToLoadModule`,{name:a})}): ${t}`)"
+                },
+                {
+                    "source": "Notice(`${l(`failedToDownloadModule`,{name:o})}: ${t}`)",
+                    "target": "Notice(`${l(`failedToDownloadModule`,{name:o})}: ${t}`)"
+                },
+                {
+                    "source": "Notice(`${n(`failedToFetchSource`,{url:r})}: ${a}`)",
+                    "target": "Notice(`${n(`failedToFetchSource`,{url:r})}: ${a}`)"
+                },
+                {
+                    "source": "setText(`${e}/${o} ${this.t(`已完成`)",
+                    "target": "setText(`${e}/${o} ${this.t(`已完成`)"
+                },
+                {
+                    "source": "setText(`${o}/${e} ${t(`已完成`)",
+                    "target": "setText(`${o}/${e} ${t(`已完成`)"
+                },
+                {
+                    "source": "text:`非对称存储`",
+                    "target": "text:`非对称存储`"
+                },
+                {
+                    "source": "text:`⚠️ 在启用非对称存储之前，您应对以下几点保持谨慎：`",
+                    "target": "text:`⚠️ 在启用非对称存储之前，您应对以下几点保持谨慎：`"
+                },
+                {
+                    "source": "text:`启用后，请确保所有设备都已启用非对称存储。`",
+                    "target": "text:`启用后，请确保所有设备都已启用非对称存储。`"
+                },
+                {
+                    "source": "text:`如果此保险库此前是在未启用非对称存储的情况下上传的，则需要进行迁移。`",
+                    "target": "text:`如果此保险库此前是在未启用非对称存储的情况下上传的，则需要进行迁移。`"
+                },
+                {
+                    "source": "text:`⚠️ 在禁用非对称存储之前，您应对以下几点保持谨慎：`",
+                    "target": "text:`⚠️ 在禁用非对称存储之前，您应对以下几点保持谨慎：`"
+                },
+                {
+                    "source": "text:`所有后续上传将镜像本地的层级结构。`",
+                    "target": "text:`所有后续上传将镜像本地的层级结构。`"
+                },
+                {
+                    "source": "text:`请确保所有设备都已禁用非对称存储。`",
+                    "target": "text:`请确保所有设备都已禁用非对称存储。`"
+                },
+                {
+                    "source": "text:`如果此保险库此前是在启用非对称存储的情况下上传的，则需要进行迁移。`",
+                    "target": "text:`如果此保险库此前是在启用非对称存储的情况下上传的，则需要进行迁移。`"
+                },
+                {
+                    "source": "description:`描述`",
+                    "target": "description:`描述`"
+                },
+                {
+                    "source": "text:`设置文档`",
+                    "target": "text:`设置文档`"
+                },
+                {
+                    "source": "text:`Lucide 图标目录`",
+                    "target": "text:`Lucide 图标目录`"
+                },
+                {
+                    "source": "text:`强烈不建议关闭完整性验证，因为这会使您暴露在巨大的攻击风险之下。`",
+                    "target": "text:`强烈不建议关闭完整性验证，因为这会使您暴露在巨大的攻击风险之下。`"
+                },
+                {
+                    "source": "name:`名称`",
+                    "target": "name:`名称`"
+                },
+                {
+                    "source": "text:`感谢您选择同步引擎！请访问以下链接`",
+                    "target": "text:`感谢您选择同步引擎！请访问以下链接`"
+                },
+                {
+                    "source": "text:`文档`",
+                    "target": "text:`文档`"
+                },
+                {
+                    "source": "text:`请在继续之前查看以下信息：`",
+                    "target": "text:`请在继续之前查看以下信息：`"
+                },
+                {
+                    "source": "text:`请避免加载来源未知的模块，因为这可能是恶意攻击。`",
+                    "target": "text:`请避免加载来源未知的模块，因为这可能是恶意攻击。`"
+                },
+                {
+                    "source": "name:`未知模块`",
+                    "target": "name:`未知模块`"
+                }
+            ]
+        }
+    }
+}
